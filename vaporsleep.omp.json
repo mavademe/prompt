@@ -63,7 +63,7 @@
           "type": "git",
           "style": "powerline",
           "leading_diamond": "<transparent,#26BDBB>\uE0B0</>",
-          "powerline_symbol": "\ue0b0 ",
+          "powerline_symbol": "\ue0b0",
           "foreground": "#100e23",
           "background": "#85ff96",
           "properties": {
